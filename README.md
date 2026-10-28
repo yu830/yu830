@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jiacheng
 
-<!--
-**yu830/yu830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm exploring AI infrastructure and systems, with interests in GPU kernels,
+large language model (LLM) inference, and reinforcement learning (RL)
+infrastructure.
 
-Here are some ideas to get you started:
+I'm interested in how models run in practice: operator correctness, execution
+paths, GPU performance, runtime observability, and reproducible evaluation. I
+like learning through hands-on experiments, investigating failures, and
+documenting both evidence and limitations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of my work is collected in [GraphBudget](https://github.com/yu830/graph-budget-runtime)
+and [AI Infrastructure Technical Reports](https://github.com/yu830/ai-infra-technical-reports).
+I've also submitted pull requests to [SGLang](https://github.com/sgl-project/sglang/pull/46596),
+[FlagGems](https://github.com/flagos-ai/FlagGems/pull/7733), and
+[llama.cpp](https://github.com/ggml-org/llama.cpp/pull/29576), covering runtime
+observability, operator correctness, and host memory usage.
